@@ -1,0 +1,8 @@
+频道分类,#genre#
+CCTV-1
+CCTV-2
+CCTV-3
+
+自定义频道分类,#genre#
+自定义频道名称1,http://xxx$!
+自定义频道名称2，http://xxx$!白名单
