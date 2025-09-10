@@ -1,7 +1,4 @@
 🕘️更新时间,#genre#
-2025-09-10 18:42:04,http://1.180.2.93:9901/tsfile/live/1020_1.m3u8
+2025-09-11 06:35:16,url
 
 频道分类,#genre#
-CCTV-1,http://1.180.2.93:9901/tsfile/live/1020_1.m3u8
-CCTV-2,http://183.11.239.36:808/hls/20/index.m3u8
-CCTV-3,http://lt.hxtre.com:35455/gaoma/cctv3.m3u8
