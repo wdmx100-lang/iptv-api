@@ -1,1 +1,4 @@
-Name: CCTV-3, URL: http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-海南-海口, ISP: 联通, Date: None, Delay: 1952 ms, Speed: 0.83 M/s, Resolution: 1920x1080
+Name: CCTV-1, URL: http://116.9.204.242:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-广西-贺州, ISP: 电信, Date: None, Delay: 10038 ms, Speed: 0.06 M/s, Resolution: None
+Name: CCTV-1, URL: http://222.169.85.8:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-吉林-辽源, ISP: 电信, Date: None, Delay: 869 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-3, URL: http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-海南-海口, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-1, URL: http://36.49.52.132:8800/rtp/239.37.0.224:5540, From: subscribe, IPv_Type: ipv4, Location: 中国-吉林, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
