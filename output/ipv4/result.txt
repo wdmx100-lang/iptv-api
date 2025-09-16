@@ -1,7 +1,6 @@
 🕘️更新时间,#genre#
-2025-09-16 18:40:46,http://222.169.85.8:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+2025-09-17 06:33:49,http://222.169.85.8:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 频道分类,#genre#
 CCTV-1,http://222.169.85.8:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://124.116.183.146:9901/tsfile/live/0001_1.m3u8
-CCTV-2,http://111.227.196.164:9901/tsfile/live/faacts/0002_1.m3u8?key=txiptv&playlive=1&authid=0
