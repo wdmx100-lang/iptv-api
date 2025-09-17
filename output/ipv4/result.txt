@@ -1,6 +1,9 @@
 🕘️更新时间,#genre#
-2025-09-17 06:33:49,http://222.169.85.8:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+2025-09-17 18:42:45,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
 
 频道分类,#genre#
-CCTV-1,http://222.169.85.8:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-1,http://124.116.183.146:9901/tsfile/live/0001_1.m3u8
+CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
+CCTV-2,https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8
+CCTV-2,http://111.43.126.240:9003/hls/14/index.m3u8
+CCTV-3,https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8
+CCTV-3,http://183.215.134.239:19901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
