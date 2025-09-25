@@ -1,12 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-25 18:41:44,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+2025-09-26 06:34:57,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 
 频道分类,#genre#
 CCTV-1,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-CCTV-1,http://183.222.242.31:8088/hls/1/index.m3u8
-CCTV-1,http://www.douzhicloud.site:35455/gaoma/cctv1.m3u8
-CCTV-1,http://xiaoya.crccxw.top:35455/gaoma/cctv1.m3u8
-CCTV-2,http://183.222.242.31:8088/hls/2/index.m3u8
-CCTV-2,http://www.douzhicloud.site:35455/gaoma/cctv2.m3u8
-CCTV-2,http://xiaoya.crccxw.top:35455/gaoma/cctv2.m3u8
-CCTV-3,http://183.222.242.31:8088/hls/3/index.m3u8
