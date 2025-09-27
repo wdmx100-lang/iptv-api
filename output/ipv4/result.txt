@@ -1,12 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-27 18:35:40,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+2025-09-28 06:33:22,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 
 频道分类,#genre#
 CCTV-1,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-CCTV-1,http://1.180.2.93:9901/tsfile/live/0001_1.m3u8?key=txiptv
-CCTV-1,http://60.16.0.216:5757/hls/1/index.m3u8
-CCTV-2,http://1.180.2.93:9901/tsfile/live/0002_1.m3u8?key=txiptv
-CCTV-2,http://60.16.0.216:5757/hls/2/index.m3u8
-CCTV-3,http://1.180.2.93:9901/tsfile/live/0003_1.m3u8?key=txiptv
-CCTV-3,http://60.16.0.216:5757/hls/3/index.m3u8
-CCTV-3,http://171.117.13.205:9999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
