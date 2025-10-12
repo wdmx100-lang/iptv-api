@@ -1,2 +1,1 @@
-Name: CCTV-1, URL: http://124.93.18.238:9003//hls/1/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-辽宁-大连, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-3, URL: http://171.15.18.199:8180/TV00000000000000000003@HHZT, From: subscribe, IPv_Type: ipv4, Location: 中国-河南-漯河, ISP: 电信, Date: None, Delay: 1009 ms, Speed: 0.19 M/s, Resolution: None
+Name: CCTV-3, URL: http://171.15.18.199:8180/TV00000000000000000003@HHZT, From: subscribe, IPv_Type: ipv4, Location: 中国-河南-漯河, ISP: 电信, Date: None, Delay: 1032 ms, Speed: 0.43 M/s, Resolution: None
