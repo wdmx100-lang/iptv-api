@@ -1,8 +1,0 @@
-Name: CCTV-2, URL: http://1.31.14.70:54321/hls/4/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-内蒙古-赤峰, ISP: 联通, Date: None, Delay: 10150 ms, Speed: 0.07 M/s, Resolution: 1920x1080
-Name: CCTV-2, URL: http://218.19.108.170:808/hls/2/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 电信, Date: None, Delay: 10298 ms, Speed: 0.06 M/s, Resolution: 720x576
-Name: CCTV-3, URL: http://sh.lnott.top:880/dx03.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-辽宁-鞍山, ISP: 移动, Date: None, Delay: 10930 ms, Speed: 0.47 M/s, Resolution: 1920x1080
-Name: CCTV-3, URL: http://1.31.14.70:54321/hls/6/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-内蒙古-赤峰, ISP: 联通, Date: None, Delay: 10353 ms, Speed: 0.20 M/s, Resolution: 1920x1080
-Name: CCTV-1, URL: http://218.19.108.170:808/hls/1/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 电信, Date: None, Delay: 10299 ms, Speed: 0.08 M/s, Resolution: 720x576
-Name: CCTV-1, URL: http://218.19.108.185:808/hls/1/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-1, URL: http://218.19.109.221:808/hls/1/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-2, URL: http://218.19.109.221:808/hls/2/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-广州, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
