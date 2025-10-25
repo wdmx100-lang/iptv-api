@@ -1,4 +1,9 @@
 🕘️更新时间,#genre#
-2025-10-25 06:20:20,url
+2025-10-25 18:22:05,http://218.19.108.170:808/hls/1/index.m3u8
 
 频道分类,#genre#
+CCTV-1,http://218.19.108.170:808/hls/1/index.m3u8
+CCTV-2,http://1.31.14.70:54321/hls/4/index.m3u8
+CCTV-2,http://218.19.108.170:808/hls/2/index.m3u8
+CCTV-3,http://sh.lnott.top:880/dx03.m3u8
+CCTV-3,http://1.31.14.70:54321/hls/6/index.m3u8
