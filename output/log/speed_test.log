@@ -1,4 +1,0 @@
-Name: CCTV-1, URL: http://sh.lnott.top:880/dx01.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-辽宁-鞍山, ISP: 移动, Date: None, Delay: 10815 ms, Speed: 0.10 M/s, Resolution: 1920x1080
-Name: CCTV-2, URL: http://111.221.137.155:44330/tsfile/live/0002_1.m3u8?key=txiptv, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 天威视讯, Date: None, Delay: 10728 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-1, URL: http://111.221.137.155:44330/tsfile/live/0001_1.m3u8?key=txiptv, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 天威视讯, Date: None, Delay: 10869 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-3, URL: http://111.221.137.155:44330/tsfile/live/0003_1.m3u8?key=txiptv, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 天威视讯, Date: None, Delay: 10871 ms, Speed: 0.00 M/s, Resolution: None
