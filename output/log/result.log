@@ -11,7 +11,8 @@ Name: CCTV-1, URL: http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/ind
 Name: CCTV-1, URL: http://zjzcf.synology.me:35455/gaoma/cctv1.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-1, URL: https://jzb.wwkejishe.top/?id=578, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-1, URL: https://shyd.695847.xyz/cms001/ch00000090990000001388/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-1, URL: http://sh.lnott.top:880/dx01.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-辽宁-鞍山, ISP: 移动, Date: None, Delay: 8082 ms, Speed: 0.81 M/s, Resolution: 1920x1080
+Name: CCTV-1, URL: http://sh.lnott.top:880/dx01.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-辽宁-鞍山, ISP: 移动, Date: None, Delay: 10815 ms, Speed: 0.10 M/s, Resolution: 1920x1080
+Name: CCTV-1, URL: http://111.221.137.155:44330/tsfile/live/0001_1.m3u8?key=txiptv, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 天威视讯, Date: None, Delay: 10869 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-2, URL: http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-2, URL: http://goo.bkpcp.top/mg/CCTV2, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-2, URL: https://migu.188766.xyz/?migutoken=f690b72b77d5d60b34b990d7818bbcdc&id=CCTV2&pp=1, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -27,6 +28,7 @@ Name: CCTV-2, URL: http://yc.myds.me:35455/gaoma/cctv2.m3u8, From: subscribe, IP
 Name: CCTV-2, URL: https://smart.pendy.dpdns.org/Smart.php?id=cctv2, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-2, URL: https://epg.pw/stream/f86540c126a751cc707e3805911549bd077fb5a7f0f53a824212d75addea3747.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-2, URL: https://jzb.wwkejishe.top/?id=579, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: CCTV-2, URL: http://111.221.137.155:44330/tsfile/live/0002_1.m3u8?key=txiptv, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 天威视讯, Date: None, Delay: 10728 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-3, URL: http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-3, URL: https://migu.188766.xyz/?migutoken=8d7819d7cf8a8042766c02aac3080b90&id=CCTV3&pp=1, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-3, URL: http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -41,3 +43,4 @@ Name: CCTV-3, URL: http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000
 Name: CCTV-3, URL: http://zjzcf.synology.me:35455/gaoma/cctv3.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-3, URL: https://smart.pendy.dpdns.org/Smart.php?id=cctv3, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-3, URL: https://jzb.wwkejishe.top/?id=580, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: CCTV-3, URL: http://111.221.137.155:44330/tsfile/live/0003_1.m3u8?key=txiptv, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 天威视讯, Date: None, Delay: 10871 ms, Speed: 0.00 M/s, Resolution: None
