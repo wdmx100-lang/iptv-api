@@ -1,5 +1,7 @@
 🕘️更新时间,#genre#
-2025-11-14 18:25:06,http://171.116.216.113:10010/rtp/226.0.1.157:3086
+2025-11-15 06:21:39,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=cq
 
 频道分类,#genre#
+CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=cq
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
+CCTV-2,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=cq
