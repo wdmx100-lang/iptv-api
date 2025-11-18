@@ -1,4 +1,4 @@
-Name: CCTV-3, URL: http://bxtv.3a.ink/migu.php?id=cctv3, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: , Date: None, Delay: 1647 ms, Speed: 1.78 M/s, Resolution: 1920x1080
-Name: CCTV-2, URL: http://bxtv.3a.ink/migu.php?id=cctv2, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: , Date: None, Delay: 1928 ms, Speed: 1.70 M/s, Resolution: 1920x1080
-Name: CCTV-1, URL: http://bxtv.3a.ink/migu.php?id=cctv1, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: , Date: None, Delay: 2029 ms, Speed: 1.62 M/s, Resolution: 1920x1080
-Name: CCTV-1, URL: http://171.116.216.113:10010/rtp/226.0.1.157:3086, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 396 ms, Speed: 0.05 M/s, Resolution: None
+Name: CCTV-2, URL: http://bxtv.3a.ink/migu.php?id=cctv2, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: , Date: None, Delay: 1545 ms, Speed: 1.63 M/s, Resolution: 1920x1080
+Name: CCTV-3, URL: http://bxtv.3a.ink/migu.php?id=cctv3, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: , Date: None, Delay: 1901 ms, Speed: 1.76 M/s, Resolution: 1920x1080
+Name: CCTV-1, URL: http://bxtv.3a.ink/migu.php?id=cctv1, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: , Date: None, Delay: 1934 ms, Speed: 1.69 M/s, Resolution: 1920x1080
+Name: CCTV-1, URL: http://171.116.216.113:10010/rtp/226.0.1.157:3086, From: subscribe, IPv_Type: ipv4, Location: 中国-山西-太原, ISP: 联通, Date: None, Delay: 407 ms, Speed: 0.03 M/s, Resolution: None
