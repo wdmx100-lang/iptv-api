@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2025-11-19 18:25:24,http://bxtv.3a.ink/migu.php?id=cctv1
+2025-11-20 06:22:00,http://bxtv.3a.ink/migu.php?id=cctv1
 
 频道分类,#genre#
 CCTV-1,http://bxtv.3a.ink/migu.php?id=cctv1
-CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
 CCTV-2,http://bxtv.3a.ink/migu.php?id=cctv2
 CCTV-3,http://bxtv.3a.ink/migu.php?id=cctv3
