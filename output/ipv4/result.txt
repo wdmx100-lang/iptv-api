@@ -1,7 +1,9 @@
 🕘️更新时间,#genre#
-2025-11-28 06:20:57,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226431/.m3u8
+2025-11-28 18:24:58,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226431/.m3u8
 
 频道分类,#genre#
 CCTV-1,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226431/.m3u8
+CCTV-1,http://183.220.107.138:4022/rtp/239.11.0.130:5140
 CCTV-2,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/.m3u8
 CCTV-3,http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/.m3u8
+CCTV-3,http://60.13.52.236:65500/newlive/live/hls/3/live.m3u8
