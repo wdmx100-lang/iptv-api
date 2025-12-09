@@ -1,6 +1,4 @@
 🕘️更新时间,#genre#
-2025-12-09 18:28:22,http://play.kankanlive.com/live/1698234869325962.m3u8
+2025-12-10 06:21:51,url
 
 频道分类,#genre#
-CCTV-1,http://play.kankanlive.com/live/1698234869325962.m3u8
-CCTV-2,https://play.kankanlive.com/live/1698234898628961.m3u8
