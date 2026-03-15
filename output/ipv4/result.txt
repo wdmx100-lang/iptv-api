@@ -1,6 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-15 18:33:21,http://107.150.60.122/live/cctv1hd.m3u8
+2026-03-16 06:30:10,http://107.150.60.122/live/cctv2hd.m3u8
 
 频道分类,#genre#
-CCTV-1,http://107.150.60.122/live/cctv1hd.m3u8
 CCTV-2,http://107.150.60.122/live/cctv2hd.m3u8
