@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-11 06:40:05,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV1
+2026-04-11 18:37:35,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV1
 
 频道分类,#genre#
 CCTV-1,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV1
