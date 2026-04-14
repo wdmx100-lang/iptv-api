@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-14 19:05:34,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV1
+2026-04-15 07:03:57,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV1
 
 频道分类,#genre#
 CCTV-1,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV1
