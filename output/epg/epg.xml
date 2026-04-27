@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260426224122 +0800">
+<tv date="20260427114519 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -854,6 +854,18 @@
 	</programme>
 	<programme channel="CCTV-1" start="20260428223500 +0800" stop="20260429000000 +0800">
 		<title lang="zh">非遗里的中国(第四季)-5(定州篇)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260429000000 +0800" stop="20260429001500 +0800">
+		<title lang="zh">非遗里的中国Ⅳ(5)：定州篇</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260429001500 +0800" stop="20260429004700 +0800">
+		<title lang="zh">寻古中国：古国良渚(2)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260429004700 +0800" stop="20260429010900 +0800">
+		<title lang="zh">人口</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260429010900 +0800" stop="20260429015300 +0800">
+		<title lang="zh">生活圈</title>
 	</programme>
 	<channel id="CCTV-2">
 		<display-name lang="zh">CCTV-2</display-name>
@@ -1809,6 +1821,15 @@
 	<programme channel="CCTV-2" start="20260428235300 +0800" stop="20260429000000 +0800">
 		<title lang="zh">一槌定音-2026-17</title>
 	</programme>
+	<programme channel="CCTV-2" start="20260429000000 +0800" stop="20260429005200 +0800">
+		<title lang="zh">一槌定音</title>
+	</programme>
+	<programme channel="CCTV-2" start="20260429005200 +0800" stop="20260429012400 +0800">
+		<title lang="zh">商行天下(4)</title>
+	</programme>
+	<programme channel="CCTV-2" start="20260429012400 +0800" stop="20260429020200 +0800">
+		<title lang="zh">青海我们的国家公园(2)</title>
+	</programme>
 	<channel id="CCTV-3">
 		<display-name lang="zh">CCTV-3</display-name>
 	</channel>
@@ -2483,5 +2504,14 @@
 	</programme>
 	<programme channel="CCTV-3" start="20260428232600 +0800" stop="20260429000000 +0800">
 		<title lang="zh">综艺喜乐汇</title>
+	</programme>
+	<programme channel="CCTV-3" start="20260429000000 +0800" stop="20260429001200 +0800">
+		<title lang="zh">驻站(27)</title>
+	</programme>
+	<programme channel="CCTV-3" start="20260429001200 +0800" stop="20260429005800 +0800">
+		<title lang="zh">驻站(28)</title>
+	</programme>
+	<programme channel="CCTV-3" start="20260429005800 +0800" stop="20260429014400 +0800">
+		<title lang="zh">驻站(29)</title>
 	</programme>
 </tv>
