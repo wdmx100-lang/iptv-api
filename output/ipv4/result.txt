@@ -1,5 +1,6 @@
 🕘️更新时间,#genre#
-2026-05-10 19:01:18,http://198.204.228.26/live/cctv1hd.m3u8
+2026-05-11 06:51:43,http://198.204.228.26/live/cctv1hd.m3u8
 
 频道分类,#genre#
 CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
+CCTV-3,http://123.129.70.178:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
