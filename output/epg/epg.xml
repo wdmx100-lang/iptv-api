@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260522230139 +0800">
+<tv date="20260523111352 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -881,6 +881,12 @@
 	</programme>
 	<programme channel="CCTV-1" start="20260524231000 +0800" stop="20260525000000 +0800">
 		<title lang="zh">宗师列传·大唐诗人传-王昌龄</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260525000000 +0800" stop="20260525011300 +0800">
+		<title lang="zh">山水间的家Ⅳ(7)</title>
+	</programme>
+	<programme channel="CCTV-1" start="20260525011300 +0800" stop="20260525015600 +0800">
+		<title lang="zh">生活圈</title>
 	</programme>
 	<channel id="CCTV-2">
 		<display-name lang="zh">CCTV-2</display-name>
@@ -1833,6 +1839,12 @@
 	<programme channel="CCTV-2" start="20260524230900 +0800" stop="20260525000000 +0800">
 		<title lang="zh">一槌定音-2026-23</title>
 	</programme>
+	<programme channel="CCTV-2" start="20260525000000 +0800" stop="20260525001400 +0800">
+		<title lang="zh">一槌定音</title>
+	</programme>
+	<programme channel="CCTV-2" start="20260525005600 +0800" stop="20260525014100 +0800">
+		<title lang="zh">中国经济大讲堂</title>
+	</programme>
 	<channel id="CCTV-3">
 		<display-name lang="zh">CCTV-3</display-name>
 	</channel>
@@ -2336,5 +2348,8 @@
 	</programme>
 	<programme channel="CCTV-3" start="20260524231900 +0800" stop="20260525000000 +0800">
 		<title lang="zh">综艺喜乐汇</title>
+	</programme>
+	<programme channel="CCTV-3" start="20260525004000 +0800" stop="20260525012600 +0800">
+		<title lang="zh">剧场</title>
 	</programme>
 </tv>
