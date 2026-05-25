@@ -1,14 +1,6 @@
 🕘️更新时间,#genre#
-2026-05-25 21:31:22,https://live.264788.xyz/channel/cctv1?streamid=ae1fc95449a7d4a13c53490cbcae614f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+2026-05-26 07:05:25,https://live.264788.xyz/channel/cctv1?streamid=ae1fc95449a7d4a13c53490cbcae614f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 频道分类,#genre#
 CCTV-1,https://live.264788.xyz/channel/cctv1?streamid=ae1fc95449a7d4a13c53490cbcae614f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CCTV-1,http://222.223.41.27:8888/hls/1/index.m3u8
-CCTV-1,http://60.10.139.113:8801/hls/1/index.m3u8
-CCTV-1,http://118.193.115.2:9901/tsfile/live/0001_1.m3u8?key=txiptv
-CCTV-1,http://120.202.94.181:9446/tsfile/live/0001_1.m3u8?key=txiptv
-CCTV-2,http://58.56.162.102:4466/newlive/live/hls/2/live.m3u8
-CCTV-2,http://118.193.115.2:9901/tsfile/live/0002_1.m3u8?key=txiptv
-CCTV-3,https://live.264788.xyz/channel/cctv3?streamid=d0473114041b533ea069452f29f33588&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CCTV-3,http://39.165.39.49:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3,http://118.193.115.2:9901/tsfile/live/0003_1.m3u8?key=txiptv
