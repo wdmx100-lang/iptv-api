@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-28 07:18:16,https://live.264788.xyz/channel/cctv1?streamid=92aee428179a0ecc7495490888c0cba9&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+2026-05-28 21:53:33,http://223.75.149.129:9906/tsfile/live/0003_1.m3u8?key=txiptv
 
 频道分类,#genre#
-CCTV-1,https://live.264788.xyz/channel/cctv1?streamid=92aee428179a0ecc7495490888c0cba9&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-3,http://223.75.149.129:9906/tsfile/live/0003_1.m3u8?key=txiptv
