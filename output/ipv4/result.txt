@@ -1,7 +1,4 @@
 🕘️更新时间,#genre#
-2026-06-02 22:05:12,http://fuxin.yunjifei.top:999/tsfile/live/0002_1.m3u8?key=txiptv
+2026-06-03 07:47:00,url
 
 频道分类,#genre#
-CCTV-2,http://fuxin.yunjifei.top:999/tsfile/live/0002_1.m3u8?key=txiptv
-CCTV-2,http://221.193.168.7:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3,http://fuxin.yunjifei.top:999/tsfile/live/0003_1.m3u8?key=txiptv
