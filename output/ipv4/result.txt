@@ -1,4 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-06 07:11:30,url
+2026-06-06 19:28:14,http://120.202.94.181:9446/tsfile/live/0002_1.m3u8?key=txiptv
 
 频道分类,#genre#
+CCTV-2,http://120.202.94.181:9446/tsfile/live/0002_1.m3u8?key=txiptv
