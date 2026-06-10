@@ -1,6 +1,4 @@
 🕘️更新时间,#genre#
-2026-06-10 20:58:23,http://101.66.195.125:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+2026-06-11 07:26:27,url
 
 频道分类,#genre#
-CCTV-1,http://101.66.195.125:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-3,http://101.66.195.125:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
