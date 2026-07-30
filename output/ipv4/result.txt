@@ -1,5 +1,6 @@
 🕘️更新时间,#genre#
-2026-07-30 06:59:49,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
+2026-07-30 19:53:26,http://221.7.175.154:8445/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 
 频道分类,#genre#
+CCTV-1,http://221.7.175.154:8445/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
