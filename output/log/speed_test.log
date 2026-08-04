@@ -1,1 +1,5 @@
-Name: CCTV-3, URL: http://drive.mxmy.net:8888/udp/239.3.1.172:8001, From: subscribe, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: 387 ms, Speed: 0.30 M/s, Resolution: 1920x1080
+Name: CCTV-1, URL: http://113.120.243.10:7788/608807420, From: subscribe, IPv_Type: ipv4, Location: 中国-山东-潍坊, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-3, URL: http://223.247.25.247:1234/624878271, From: subscribe, IPv_Type: ipv4, Location: 中国-安徽-池州, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-3, URL: http://drive.mxmy.net:8888/udp/239.3.1.172:8001, From: subscribe, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: 421 ms, Speed: 0.04 M/s, Resolution: 1920x1080
+Name: CCTV-2, URL: http://223.247.25.247:1234/631780532, From: subscribe, IPv_Type: ipv4, Location: 中国-安徽-池州, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-1, URL: http://113.90.154.189:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 电信, Date: None, Delay: 10306 ms, Speed: 0.13 M/s, Resolution: None
