@@ -1,6 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-06 20:03:55,http://pull-hls-f1.douyincdn.com/media/stream-407987562509501100/playlist.m3u8?keeptime=00093a80&wsSecret=70ba7ec30965743accbcfb926a58fd7c&wsTime=6a6c7613&exp_hrchy=w1&arch_hrchy=w1&major_anchor_level=common&t_id=037-2026073118165145DD5015353E316620A0-ZYOHNH
+2026-08-07 09:30:35,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
 
 频道分类,#genre#
-CCTV-2,http://pull-hls-f1.douyincdn.com/media/stream-407987562509501100/playlist.m3u8?keeptime=00093a80&wsSecret=70ba7ec30965743accbcfb926a58fd7c&wsTime=6a6c7613&exp_hrchy=w1&arch_hrchy=w1&major_anchor_level=common&t_id=037-2026073118165145DD5015353E316620A0-ZYOHNH
 CCTV-3,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
