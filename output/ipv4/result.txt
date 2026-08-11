@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-08-11 18:51:19,http://112.30.73.119:229/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-08-12 06:43:25,http://218.13.148.152:5140/IPTV-%E5%A4%AE%E8%A7%86/CCTV-2
 
 频道分类,#genre#
-CCTV-1,http://112.30.73.119:229/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://218.13.148.152:5140/IPTV-%E5%A4%AE%E8%A7%86/CCTV-2
 CCTV-3,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
-CCTV-3,http://112.30.73.119:229/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://112.30.73.119:229/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&authid=0
