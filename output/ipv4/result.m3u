@@ -1,13 +1,13 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/wdmx100-lang/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-08-14 06:43:56
-http://1.190.240.47:9003/hls/3001/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-08-14 18:58:31
+http://1.190.240.47:9003/hls/3019/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="频道分类",CCTV-1
-http://1.190.240.47:9003/hls/3001/index.m3u8
+http://1.190.240.47:9003/hls/3019/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="频道分类",CCTV-2
+http://173.208.212.130:8181/1080p/cctv2.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="频道分类",CCTV-2
 http://218.13.148.152:5140/IPTV-%E5%A4%AE%E8%A7%86/CCTV-2
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="频道分类",CCTV-2
-http://221.7.175.154:8445/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="频道分类",CCTV-2
-http://1.190.240.47:9003/hls/3020/index.m3u8
+http://123.175.209.118:9003/hls/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="频道分类",CCTV-3
 http://drive.mxmy.net:8888/udp/239.3.1.172:8001
