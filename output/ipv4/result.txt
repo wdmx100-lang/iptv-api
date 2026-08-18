@@ -1,6 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-18 18:30:01,http://118.122.144.115:8888/newlive/live/hls/3/live.m3u8
+2026-08-19 06:25:09,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
 
 频道分类,#genre#
-CCTV-3,http://118.122.144.115:8888/newlive/live/hls/3/live.m3u8
 CCTV-3,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
