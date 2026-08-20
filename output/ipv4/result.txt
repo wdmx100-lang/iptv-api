@@ -1,11 +1,6 @@
 🕘️更新时间,#genre#
-2026-08-20 18:32:21,http://111.8.242.142:9999/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-08-21 06:29:25,http://113.9.214.47:9003/hls/1/index.m3u8
 
 频道分类,#genre#
-CCTV-1,http://111.8.242.142:9999/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-1,http://61.161.61.119:9004/hls/1/index.m3u8
-CCTV-2,http://111.59.24.227:8181/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2,http://61.161.61.119:9004/hls/2/index.m3u8
-CCTV-3,http://111.8.242.142:9999/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3,http://61.161.61.119:9004/hls/3/index.m3u8
+CCTV-1,http://113.9.214.47:9003/hls/1/index.m3u8
 CCTV-3,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
