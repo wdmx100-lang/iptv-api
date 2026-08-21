@@ -1,6 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-21 06:29:25,http://113.9.214.47:9003/hls/1/index.m3u8
+2026-08-21 18:31:28,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
 
 频道分类,#genre#
-CCTV-1,http://113.9.214.47:9003/hls/1/index.m3u8
 CCTV-3,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
